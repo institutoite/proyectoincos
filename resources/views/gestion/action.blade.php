@@ -1,0 +1,1 @@
+los botones esta en el index no es datatable puro

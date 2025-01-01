@@ -1,0 +1,90 @@
+use App\Models\Estudiante;
+use App\Models\Persona;
+use App\Models\Docente;
+use App\Models\Programacion;
+use App\Models\Inscripcione;
+use App\Models\Matriculacion;
+
+
+ $p=App\Models\Persona::findOrFail($id)->user
+use App\Models\Estudiante;
+use App\Models\Persona;
+use App\Models\Docente;
+use App\Models\Programacion;
+use App\Models\Inscripcione;
+use App\Models\Matriculacion;
+
+
+ $p=App\Models\Persona::findOrFail($id)->user;
+use App\Models\Estudiante;
+use App\Models\Persona;
+use App\Models\Docente;
+use App\Models\Programacion;
+use App\Models\Inscripcione;
+use App\Models\Matriculacion;
+
+
+ $p=App\Models\Persona::findOrFail(1)->user;
+use App\Models\Estudiante;
+use App\Models\Persona;
+use App\Models\Docente;
+use App\Models\Programacion;
+use App\Models\Inscripcione;
+use App\Models\Matriculacion;
+
+
+ $p=App\Models\Persona::findOrFail(1)->user->id;
+use App\Models\Estudiante;
+use App\Models\Persona;
+use App\Models\Docente;
+use App\Models\Programacion;
+use App\Models\Inscripcione;
+use App\Models\Matriculacion;
+
+
+ $p=App\Models\Persona::findOrFail(22)->user->id;
+use App\Models\Estudiante;
+use App\Models\Persona;
+use App\Models\Docente;
+use App\Models\Programacion;
+use App\Models\Inscripcione;
+use App\Models\Matriculacion;
+
+
+ $p=App\Models\Persona::findOrFail(2)->user->id;
+use App\Models\Estudiante;
+use App\Models\Persona;
+use App\Models\Docente;
+use App\Models\Programacion;
+use App\Models\Inscripcione;
+use App\Models\Matriculacion;
+
+
+ $p=App\Models\Persona::findOrFail(20)->user->id;
+use App\Models\Estudiante;
+use App\Models\Persona;
+use App\Models\Docente;
+use App\Models\Programacion;
+use App\Models\Inscripcione;
+use App\Models\Matriculacion;
+
+
+ $p=App\Models\Persona::findOrFail(21)->user->id;
+use App\Models\Estudiante;
+use App\Models\Persona;
+use App\Models\Docente;
+use App\Models\Programacion;
+use App\Models\Inscripcione;
+use App\Models\Matriculacion;
+
+
+ $p=App\Models\Persona::findOrFail(22)->user->id;
+use App\Models\Estudiante;
+use App\Models\Persona;
+use App\Models\Docente;
+use App\Models\Programacion;
+use App\Models\Inscripcione;
+use App\Models\Matriculacion;
+
+
+ $p=App\Models\Persona::findOrFail(22)->user->id;
